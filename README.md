@@ -4,12 +4,12 @@ Plate는 신백현중학교 급식을 알려주는 카톡봇의 Meta-Repo입니�
 
 Server:Fork
 ------------
-(Fork)[https://github.com/joshua1b/Fork]
+[Fork](https://github.com/joshua1b/Fork)
 Plate의 서버입니다.
 
 Scraper:Spoon
 --------------
-(Spoon)[https://github.com/joshua1b/Spoon]
+[Spoon](https://github.com/joshua1b/Spoon)
 급식 정보를 파싱해서 저장하는 스크립트입니다.
 
 Warning
